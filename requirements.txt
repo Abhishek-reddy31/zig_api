@@ -1,0 +1,8 @@
+Flask
+pandas
+requests
+beautifulsoup4
+selenium
+apscheduler
+lxml
+gunicorn
